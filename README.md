@@ -1,2 +1,2 @@
-# my-project
+<project>
 students schedules
